@@ -1,0 +1,34 @@
+
+    .page {
+      padding: 16px 16px 96px 16px;
+    }
+    
+    .section-container {
+      padding: 16px;
+      background: #ffffff;
+      border-radius: 8px;
+      margin-bottom: 24px;
+    }    
+    
+    .add-user {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .input-user {
+      margin-right: 1rem;
+    }
+
+    .section-user-list {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .add-user-button {
+      margin-top: 0.4rem;
+    }
+
+    .total-chip-input {
+      margin-top: 14px;
+    }
